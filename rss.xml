@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PSBX]]></title>
+        <description><![CDATA[PSBX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 03:03:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Per Se Brand Experience</p>]]></description>
+            <link>undefinedf999e3e4-ead2-4fee-b520-bb1f2d4f0dab/index.html</link>
+            <guid isPermaLink="false">f999e3e4-ead2-4fee-b520-bb1f2d4f0dab</guid>
+            <pubDate>Fri, 19 Feb 2016 03:03:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
