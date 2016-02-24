@@ -1,7 +1,7 @@
 name: PSBX
 favicon: null
-layout_spectrum: 0.6169
-typography_spectrum: 0.91067
+layout_spectrum: 0.32659
+typography_spectrum: 0.86416
 title: Welcome to Per Se Brand Experience
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5d5d5d'
-    - '#000000'
-    - '#404040'
-    - '#333333'
-    - '#666666'
-  brandStrength: 0.125
-  lightness: 0.1875
-  saturation: 0.5
+    - '#fedbc8'
+    - '#503232'
+    - '#958a76'
+    - '#a85f4e'
+    - '#f99480'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
